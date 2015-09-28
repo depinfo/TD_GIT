@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
 salut toi
 
 CONFLIIITT!!
 
 
+=======
+<<<<<<< HEAD
+CONFLIIITT!!
+N
+=======
+CONFLIIITT!!
+>>>>>>> e74f788246935bb3f512fc1a87cb81db6cb8b24d
+>>>>>>> 18d1300cca28ad552788f8ae692695932f12b1de
