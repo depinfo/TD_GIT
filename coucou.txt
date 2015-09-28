@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 CONFLIIITT!!
 N
+=======
+CONFLIIITT!!
+>>>>>>> e74f788246935bb3f512fc1a87cb81db6cb8b24d
